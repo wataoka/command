@@ -3,9 +3,8 @@
 |ファイル名|コマンド名|説明|
 |:--------|:--------|:----|
 |test.sh|testcommand|`Hello World!`とだけ表示するコマンド|
-|dmm.sh|dmm|dmm英会話を始める前のコマンドで, dmm英会話のホームページ,翻訳ページを2つ, 検索ページを開く |
 |morning.sh|mor|朝起きたあとのコマンドで, ChatWork,NewsPicks,GoogleNews,NHK Newsを開く|
-
+|dmm.sh|dmm|dmm英会話を始める前のコマンドで, dmm英会話のホームページ,翻訳ページを2つ, 検索ページを開く |
 
 ## 導入手順
 1. `bin`ディレクトリをダウンロードし, ホームディレクトリ直下に置く.
