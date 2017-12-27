@@ -7,7 +7,9 @@
 ## 導入手順
 1. `bin`ディレクトリをダウンロードし, ホームディレクトリ直下に置く.
 2. `bin`ディレクトリのパスを通す  
-`$ PATH="~bin:$PATH"`
+```
+$ PATH="~bin:$PATH"
+```
 3. `bin`ディレクトリ内の全てのファイルに実行属性を与える.
 ```command
 $ ls -l [file名]
@@ -16,7 +18,9 @@ $ ls -l [file名]
 ```
 4. `.bashrc`にエイリアスを書く.
 5. `.bashrc`を実行する.  
-`$ source .bashrc`
+```command
+$ source .bashrc
+```
 
 ## 新規作成手順
 1. 導入手順を行う.
